@@ -1,2 +1,2 @@
-# C...Game
+# C...Game solution
 
